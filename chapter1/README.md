@@ -16,7 +16,7 @@ This book can be used as an introductory book of the application of Node. Js to 
 
 The source code that this book shares is Ebookcoin (Yishu coin), which is a powerful motivation of Yishu. Just like Lisk (raising more than 6.5 million), Yishu is an independent branch of Crypti (no longer under maintenance) and has sidechain function similar to Ethereum, which can carry a variety of decentralized applications. Therefore, no matter if you are studying Crypti, Lisk, Ebookcoin, or node. js, this book is worthy of reference.
 
-The goal of Yishu is to create decentralized software for everyone and promote the sharing of human knowledge.Yishu is driven by Crypto, and unlike other competing currency products, we hope to be the first "zero-threshold" [[??]]Crypto product based on practical software. Please refer to hyperlink for details.
+The goal of Yishu is to create decentralized software for everyone and promote the sharing of human knowledge.Yishu is driven by Crypto, and unlike other competing currency products, we hope to be the first "zero-threshold" Crypto product based on practical software. Please refer to hyperlink for details.
 
 Writing this book is also the best practice for Yishu. Yishu is simple and fast in writing and publishing. The article is currently free on github and http://bitcoin-on-nodejs.ebookchain.org.
 
@@ -44,7 +44,7 @@ Later, on the game platform, the concept of game currency was first put forward.
 
 In recent years, bitcoin, a real digital currency that can be called money, came out. However, people are reluctant to distinguish it from other forms of digital coins. On the one hand, the law of inertia still exists: people around the world have rich experience in using digital currency, why is it different?
 
-On the other hand, the resistance of acceptance is huge: to understand Crypto, people need to know about P2P network, encryption, decryption, and maybe database technology, neither of which [[which==>these]] is not commonly understood by people.
+On the other hand, the resistance of acceptance is huge: to understand Crypto, people need to know about P2P network, encryption, decryption, and maybe database technology, neither of these is not commonly understood by people.
 
 Even if all of these technologies are understood, it is not easy to implement all functions and features like a real currency. In people's thinking, the "digital currency" is a “token” rather than a currency, so the statement "Crypto is currency" could be confusing indeed.
 
@@ -70,11 +70,11 @@ Crypto is a kind of cryptographic electronic currency based on point-to-point ne
  
 Crypto-currency is currency, which is a bizarre conclusion that is close to "nonsense," and it's much easier to understand when we understand the history and concept definitions above. But if you're not a technologist and have trouble to understand it, please compare it with legal currency and find some common ground.
 
-**(1) Quantitative:** the legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not discuss excess issuance here [[==>(We do not want to discuss the excessive quantities insurance here)]]. Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
+**(1) Quantitative:** the legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not want to discuss the excessive quantities insurance here). Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
 
 However, there is no fixed amount of digital coins provided by some websites.
 
-**(2) Encryption:** legal currency has physical security of highest level of technology and can be verified through the counterfeit detector. Encryption technology of Crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encryped[[==>encrypted]]. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit Crypto. At the same time, the verification mechanism of Crypto is much simpler, quicker and more accurate than legal currency.
+**(2) Encryption:** legal currency has physical security of highest level of technology and can be verified through the counterfeit detector. Encryption technology of Crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encrypted. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit Crypto. At the same time, the verification mechanism of Crypto is much simpler, quicker and more accurate than legal currency.
 
 However, the digital currency of some individual websites is only a series of numbers, and the administrator can modify and freeze information, and their encryption is permission control when the user logs in.
 
@@ -91,16 +91,16 @@ It is easier to start with "centralization". Currently, all the major websites w
 
 Decentralization, on the other hand, is based on P2P network, without any machine as the centralized server: every computer in the network is equal, and if anyone dropped down, the network will still continue. If everyone trusts the network, it will last forever, just like bitcoin networks. Specifically, please refer to the chapter with a sophisticated p2p network implementation".
 
-This is an Crypto trading channel [[==>a Crypto trading channel]]. Network foundation, barrier-free transaction… [[==>a network foundation with barrier-free transactions.]] Anytime, anywhere, as long as you can access the Internet, you can get involved in this trading network and pay Crypto  to any part of the world.
+This is a Crypto trading channel. A network foundation with barrier-free transactions. Anytime, anywhere, as long as you can access the Internet, you can get involved in this trading network and pay Crypto  to any part of the world.
 
 #### (2) Encryption and Decryption
 
 
 We have free channels, but are we safe? How about if the channel get hacked?
 
-This requires advanced encryption and decryption technology. Fortunately, encryption and decryption technology have been  used in the Internet communities for years, safe and sound [[==>solid]]. Theoretically, it is meaningless to decrypt and crack a single node and difficult to decrypt all nodes. Moreover, the number of P2P network nodes is huge, so the security level of Crypto currency system is very high.
+This requires advanced encryption and decryption technology. Fortunately, encryption and decryption technology have been  used in the Internet communities for years, safe and solid. Theoretically, it is meaningless to decrypt and crack a single node and difficult to decrypt all nodes. Moreover, the number of P2P network nodes is huge, so the security level of Crypto currency system is very high.
 
-This is the foundation of Crypto. With this tech, we can safely pay out the Crypto  without fear of losing or getting stolen, and the buyer can have the basic motivation to pay [[+Crypto]] for transactions. For encryption and decryption technology, please refer to [[+chapters in ]] "Encryption and decryption technology in node.js" and "three graphs to give you a comprehensive grasp of encryption and decryption technology".
+This is the foundation of Crypto. With this tech, we can safely pay out the Crypto  without fear of losing or getting stolen, and the buyers can have the basic motivation to pay Crypto for transactions. For encryption and decryption technology, please refer to the chapters in "Encryption and decryption technology in node.js" and "three graphs to give you a comprehensive grasp of encryption and decryption technology".
 
 #### (3) Blockchain
 
