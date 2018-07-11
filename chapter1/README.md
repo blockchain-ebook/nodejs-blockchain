@@ -70,15 +70,15 @@ Crypto is a kind of cryptographic electronic currency based on point-to-point ne
  
 Crypto-currency is currency, which is a bizarre conclusion that is close to "nonsense," and it's much easier to understand when we understand the history and concept definitions above. But if you're not a technologist and have trouble to understand it, please compare it with legal currency and find some common ground.
 
-** (1) Quantitative: ** the legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not discuss excess issuance here [[==>(We do not want to discuss the excessive quantities insurance here)]]. Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
+**(1) Quantitative:** the legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not discuss excess issuance here [[==>(We do not want to discuss the excessive quantities insurance here)]]. Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
 
 However, there is no fixed amount of digital coins provided by some websites.
 
-** (2) Encryption: ** legal currency has physical security of highest level of technology and can be verified through the counterfeit detector. Encryption technology of Crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encryped[[==>encrypted]]. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit Crypto. At the same time, the verification mechanism of Crypto is much simpler, quicker and more accurate than legal currency.
+**(2) Encryption:** legal currency has physical security of highest level of technology and can be verified through the counterfeit detector. Encryption technology of Crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encryped[[==>encrypted]]. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit Crypto. At the same time, the verification mechanism of Crypto is much simpler, quicker and more accurate than legal currency.
 
 However, the digital currency of some individual websites is only a series of numbers, and the administrator can modify and freeze information, and their encryption is permission control when the user logs in.
 
-** (3) Transaction: ** legal currency, also known as currency or general equivalent, can be exchanged with any merchant and bought anything, which is the most basic attribute of currency. The same is true for encrypted money, which you can pay to any party, and the encrypted money will arrive safely without fear of being hijacked, hacked, or reduced.
+**(3) Transaction:** legal currency, also known as currency or general equivalent, can be exchanged with any merchant and bought anything, which is the most basic attribute of currency. The same is true for encrypted money, which you can pay to any party, and the encrypted money will arrive safely without fear of being hijacked, hacked, or reduced.
 
 However, this is not true for digital currency of some websites: they have no such function at all, and can only be traded within the website. Some stores can trade digital currency between many websites, but those websites belong to the same owner. Of course, a website can trade with other websites if it has an agreement with a third party to set the value of its digital currency, but the essence of this transaction is still legal currency. No one is likely to sign this agreement, at least not me, because there is no oversight, no control, no guarantee of absolute trust.
 
@@ -98,7 +98,7 @@ This is an Crypto trading channel [[==>a Crypto trading channel]]. Network found
 
 We have free channels, but are we safe? How about if the channel get hacked?
 
-This requires advanced encryption and decryption technology. Fortunately, encryption and decryption technology have been  used in the Internet communities for years, safe and sound [[==>solid]]. Theoretically, it is meaningless to decrypt and crack a single node and difficult to decrypt all nodes. Moreover, the number of P2P network nodes is huge, so the security level of Crypto should be the highest for now. [[==>so the security level of Crypto currency system is very high]]
+This requires advanced encryption and decryption technology. Fortunately, encryption and decryption technology have been  used in the Internet communities for years, safe and sound [[==>solid]]. Theoretically, it is meaningless to decrypt and crack a single node and difficult to decrypt all nodes. Moreover, the number of P2P network nodes is huge, so the security level of Crypto currency system is very high.
 
 This is the foundation of Crypto. With this tech, we can safely pay out the Crypto  without fear of losing or getting stolen, and the buyer can have the basic motivation to pay [[+Crypto]] for transactions. For encryption and decryption technology, please refer to [[+chapters in ]] "Encryption and decryption technology in node.js" and "three graphs to give you a comprehensive grasp of encryption and decryption technology".
 
@@ -111,7 +111,7 @@ The answer is Blockchain. This is the invention of the Crypto currency. It is th
 
 More importantly, the database, which is distributed across P2P networks, holds a copy of each node, and everyone can access it publicly and view the transaction records. In other words, not only can both parties see the transaction result, but the entire network can see it. It is open, transparent and traceable, so you have to believe it.
 
-This is the credit guarantee of Crypto. No economic actions can be achieved without trust. This invention of Crypto opens a door for open, transparent and traceable credit system, and provide infinite possibilities for imagination by companies, organizations and individuals. Later, I will continue to share the code of the blockchain of Yishu, <<the mysterious blockchain>> (to be completed).
+This is the credit guarantee of Crypto. No economic actions can be achieved without trust. This invention of Crypto opens a door for open, transparent and traceable credit system, and provide infinite possibilities for imagination by companies, organizations and individuals. Later, I will continue to share the code of the blockchain of Yishu, "the mysterious blockchain" (to be completed).
 
 
 #### (4) Consensus Mechanism
