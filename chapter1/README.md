@@ -56,15 +56,15 @@ Crypto is a kind of cryptographic electronic currency based on point-to-point ne
 
 ### Notes:
 
-** (1) P2P network: ** this is not a new concept. The first BitTorrent protoco we used was based on P2P network, which is supported by many download tools. Its advantage is "decentralization", that is, there is no central server, the files downloaded are all on the user's own computer, and the download speed is faster;
+**(1) P2P network:** this is not a new concept. The first BitTorrent protoco we used was based on P2P network, which is supported by many download tools. Its advantage is "decentralization", that is, there is no central server, the files downloaded are all on the user's own computer, and the download speed is faster;
 
-** (2) No issuing institutions: ** that is to say, it is not controlled by certain company, bank or state. This requires very complex mechanisms and rules in programming.
+**(2) No issuing institutions:** that is to say, it is not controlled by certain company, bank or state. This requires very complex mechanisms and rules in programming.
 
-** (3) Fixed total amount: ** this is a strategy to ensure the value of Crypto.  "Scarcity equals to preciousness" - anything without limit will lose its attraction. This is different from online community credits.
+**(3) Fixed total amount:** this is a strategy to ensure the value of Crypto.  "Scarcity equals to preciousness" - anything without limit will lose its attraction. This is different from online community credits.
 
-** (4) Encryption: ** encryption mentioned here is not access control such as user name or password, but trading and transmission encryption. Cryptology theory is complex, but it's not complicated to use.
+**(4) Encryption:** encryption mentioned here is not access control such as user name or password, but trading and transmission encryption. Cryptology theory is complex, but it's not complicated to use.
 
-** (5) Electronic currency: ** Encrypted currency is money. Like legal currency, it can be freely traded. So what about community credits? Are they currency? The answer is no, which will be explained in detail below.
+**(5) Electronic currency:** Encrypted currency is money. Like legal currency, it can be freely traded. So what about community credits? Are they currency? The answer is no, which will be explained in detail below.
 
 ### Crypto is Currency
  
