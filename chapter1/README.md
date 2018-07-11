@@ -1,4 +1,4 @@
-#Chapter 1 Introduction
+# Chapter 1 Introduction
 
 Bitcoin on Nodejs
 
@@ -10,7 +10,7 @@ Translation Cooperation: http://chainmap.org + https://elementus.io/ (thanks to 
 
 
 
-##About
+## About
 
 This book can be used as an introductory book of the application of Node. Js to develop encryption, as well as the official document for Yishu(and Lisk,with Crypti core platform).
 
@@ -20,13 +20,13 @@ The goal of Yishu is to create decentralized software for everyone and promote t
 
 Writing this book is also the best practice for Yishu. Yishu is simple and fast in writing and publishing. The article is currently free on github and http://bitcoin-on-nodejs.ebookchain.org.
 
-##Part 1: Understand Crypto
+## Part 1: Understand Crypto
 
-###Crypto is currency
+### Crypto is currency
 
 This part is a introduction of Crypto, as well as a quick guide for anyone without knowledge towards bitcoin or Crypto.
 
-###Preface
+### Preface
 
 "Crypto is currency" sounds quite silly. But if you think of its implication,  "Crypto may not be currency," you may find it interesting. In fact, many of my friends, including myself, held the latter opinion at the very beginning, and it took me some time to reach this conclusion.
 
@@ -36,7 +36,7 @@ I am trying to write a simple, entry-level article for those who have not been e
 
 This article covers some basic concepts including: what is Crypto? How is it different from digital coins that people use every day? What are the advantages? Why are they so popular? Basically, it is about the most basic understanding I have as a programmer.
 
-###The simplest history of Crypto
+### The simplest history of Crypto
 
 Crypto is a kind of digital currency. Before bitcoin appeared, "digital currency", "virtual currency", "electronic money" had already emerged, especially "virtual currency", which refers to  digitization or virtualization of “real”, “legal” currency, such as the US dollar and RMB, through online banking, alipay, etc, enabling people to pay without money.
 
@@ -48,13 +48,13 @@ On the other hand, the resistance of acceptance is huge: to understand Crypto, p
 
 Even if all of these technologies are understood, it is not easy to implement all functions and features like a real currency. In people's thinking, the "digital currency" is a “token” rather than a currency, so the statement "Crypto is currency" could be confusing indeed.
 
-###What is Crypto?
+### What is Crypto?
 
 "Crypto" can be interpreted as an encrypted electronic money (or digital currency), a typical example is the bitcoin. So let's use bitcoin to define Crypto:
 
 Crypto is a kind of cryptographic electronic currency based on point-to-point network (P2P network), without issuing institutions and with a fixed total amount.
 
-###Notes:
+### Notes:
 
 ** (1) P2P network: ** this is not a new concept. The first BitTorrent protoco we used was based on P2P network, which is supported by many download tools. Its advantage is "decentralization", that is, there is no central server, the files downloaded are all on the user's own computer, and the download speed is faster;
 
@@ -66,7 +66,7 @@ Crypto is a kind of cryptographic electronic currency based on point-to-point ne
 
 ** (5) Electronic currency: ** Encrypted currency is money. Like legal currency, it can be freely traded. So what about community credits? Are they currency? The answer is no, which will be explained in detail below.
 
-###Crypto is Currency
+### Crypto is Currency
  
 Crypto-currency is currency, which is a bizarre conclusion that is close to "nonsense," and it's much easier to understand when we understand the history and concept definitions above. But if you're not a technologist and have trouble to understand it, please compare it with legal currency and find some common ground.
 
@@ -82,7 +82,7 @@ However, the digital currency of some individual websites is only a series of nu
 
 However, this is not true for digital currency of some websites: they have no such function at all, and can only be traded within the website. Some stores can trade digital currency between many websites, but those websites belong to the same owner. Of course, a website can trade with other websites if it has an agreement with a third party to set the value of its digital currency, but the essence of this transaction is still legal currency. No one is likely to sign this agreement, at least not me, because there is no oversight, no control, no guarantee of absolute trust.
 
-###Is Crypto Reliable? 
+### Is Crypto Reliable? 
 
 From discussion above, we understand how Crypto works, but we may still cast doubt on the usage of Crypto. Is it reliable? This is the first question that many people ask. The answer is yes, of course, but there are many techniques and theories involved to explain why. Fortunately, these technologies and theories are mature technologies. If you think they're reliable, the following explanation is easy to understand. Otherwise, it's hard to convince yourself that crypto-currencies are more reliable than the digital ones of some websites.
 
@@ -128,7 +128,7 @@ This is the operation rule of Crypto. It is the place where the previous common 
 
 Finally, the above techniques are interdependent and mutual supported through consensus mechanism as a whole, and this ensures the absolute safety of payments and trades without issuing institutions.
 
-###Conclusion
+### Conclusion
 
 Imagine, what a highly autonomous network would bring us(future trend)? What can we do with Crypto (applications)? If you invest or start a business in this industry, what should you pay attention to (risk and methods)? Read the following passage: interests, the common goal of devil and angel. For answers.
 
