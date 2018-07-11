@@ -122,7 +122,7 @@ Is it enough to only have security and credibility? Another problem is, since th
 
 The solution is "Consensus Mechanism", i.e. an algorithms mechanisms, including Proof of Work Mechanism (POW), Proof of Stack (POS), Delegated Proof of Stack (DPOS) etc, which is like the principle of collective decisions and rules in a discussion. This is where the coding focus for Crypto, and it is also the difficult part of Crypto development.
 
-In particular, the DPOS mechanism is basically the shareholder voting mechanism of a joint-stock company, which is the algorithm mechanism used by Yishu. Later, I will continue to share articles, including Yishu <<implementation of DPOS mechanism >>
+In particular, the DPOS mechanism is basically the shareholder voting mechanism of a joint-stock company, which is the algorithm mechanism used by Yishu. Later, I will continue to share articles, in "implementation of DPOS mechanism".
 
 This is the operation rule of Crypto. It is the place where the previous common technologies are integrated and innovated. Without understanding this part, it is impossible to talk about Crypto development.
 
