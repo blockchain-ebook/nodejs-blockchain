@@ -1,4 +1,4 @@
-# nodejs-blockchain
+# Use node.js to build Blockchain
 
 ## [Chapter 1 - Introduction](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter1)
 
