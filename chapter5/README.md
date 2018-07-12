@@ -386,7 +386,7 @@ CNPM install gulp - save - dev
 
 This is installed in the project directory for easy administration. Also, because gulp is just a development aid and is only used on a local development machine, we should add --save-dev option and installs the gulp module in the development dependency.
 
-### (3) pipeline construction
+#### (3) pipeline construction
 
 Build gulpfile.js manually. 
 
@@ -418,7 +418,7 @@ On the command line, enter the following command to run the task.
 gulp deploy
 ```
 
-### (4) plug-in
+#### (4) plug-in
 
 3 gulp plug-in order，sourcemaps,uglify can be found from the official network, other plug-ins involved in project involved are listed below:
 
@@ -441,7 +441,7 @@ gulp deploy
 "Gulp-uglify": "^1.5.1", / / confuse and compress the JS file.
 ```
 
-### (5) deployment
+#### (5) deployment
 
 
 ```
