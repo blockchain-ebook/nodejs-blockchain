@@ -11,7 +11,7 @@ Translator/Validator: [Anbei Zhao](https://www.linkedin.com/in/anbei-zhao-b18b48
 Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)
 
 
-## preface
+## Preface
 
 This article introduces node.js development environment set-up, the installation and usage of node.js, as well as third-party platforms and resources.
  

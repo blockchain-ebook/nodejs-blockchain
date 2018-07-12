@@ -1,7 +1,5 @@
 # Chapter 1 - Introduction
 
-Bitcoin on Nodejs
-
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
 Yishu official site: http://ebookchain.org (Wechat group: chainclub)
