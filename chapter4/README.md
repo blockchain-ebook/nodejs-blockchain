@@ -233,7 +233,7 @@ logic: ['dbLite', 'bus', 'scheme', 'genesisblock', function (cb, scope) {
 
 ```
 
-(4) load modules
+### (4) load modules
 
 The execution results of all the above code are shared by modules at this step. As shown in the following code, each module adopts consistent (not necessarily identical) parameters and processing methods, which are simple and convenient to handle:
 
