@@ -1,6 +1,4 @@
-# Chapter 5 - Node.js makes your front-end fly
-
-Bitcoin on Nodejs
+# Chapter 5 - Node.js Makes Your Front-end Fly
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
