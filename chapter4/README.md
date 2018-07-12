@@ -15,7 +15,7 @@ Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)
 
 
 
-## preface
+## Preface
 
 In the introductory chapter, we know that node.js applications are combined into one file, which can also be split into multiple files for ease of development.
 

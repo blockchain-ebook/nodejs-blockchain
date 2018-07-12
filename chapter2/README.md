@@ -12,7 +12,7 @@ Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)
 
 
 
-## preface
+## Preface
 The topic of this chapter covers future trends, application scenarios, and risk alerts of blockchain, offering us a more intuitive understanding of some concepts in the blockchain world such as smart contracts.
 
 ## Interest governs human behavior
