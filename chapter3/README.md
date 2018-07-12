@@ -1,4 +1,4 @@
-# Chapter 3 - Node.js - Making the Backend as Simple as Frontend
+# Chapter 3 - Node.js - Making Backend as Simple as Frontend
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
