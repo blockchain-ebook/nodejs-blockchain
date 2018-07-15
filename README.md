@@ -5,7 +5,6 @@
 
 About
   - [Introduction](./about/intro.md)
-  - [About the book](./about/about-the-book.md)
   
 Part 1 - Understanding Blockchain
   - Chapter 1: [Cryptocurrency is a currency](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter1)
