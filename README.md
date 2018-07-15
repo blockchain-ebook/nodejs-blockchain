@@ -1,4 +1,4 @@
-[//]: # ( Alternate Title: Building a Blockchain with Node.js )
+n[//]: # ( Alternate Title: Building a Blockchain with Node.js )
 # Using Node.js to Build a Blockchain
 
 
