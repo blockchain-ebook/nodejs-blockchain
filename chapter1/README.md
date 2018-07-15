@@ -1,4 +1,4 @@
-# Chapter 1 - Introduction to Crypto
+# Chapter 1:  Introduction to Crypto
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
