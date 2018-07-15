@@ -1,4 +1,4 @@
-# Chapter 2 - Interest: the Common Goal of Devil and Angel
+# Chapter 2 - Interest - the Common Goal of Devil and Angel
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
@@ -15,7 +15,7 @@ Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)
 ## Preface
 The topic of this chapter covers future trends, application scenarios, and risk alerts of blockchain, offering us a more intuitive understanding of some concepts in the blockchain world such as smart contracts.
 
-## Interest governs human behavior
+## Profit governs human behavior
 
 What do people live for? Sometimes we are ambitious and  enterprising while sometimes we are humble and desireless. But in the complex real world, we are always governed by certain force, unable to break, unable to stop.
 
