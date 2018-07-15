@@ -4,8 +4,7 @@
 ## Table of Contents
 
 About
-  - [Introduction](./about/introduction.md)
-  - [Preface](preface/README.md)
+  - [Introduction](./about/intro.md)
   - [About the book](./about/about-the-book.md)
   
 Part 1 - Understanding Blockchain
