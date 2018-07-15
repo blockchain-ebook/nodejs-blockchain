@@ -1,4 +1,4 @@
-# Chapter 4 - Entry Program app.js 
+# Chapter 4 - Starting with app.js 
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 

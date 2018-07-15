@@ -1,4 +1,4 @@
-# Chapter 2 - Interest - the Common Goal of Devil and Angel
+# Chapter 2: Interest - the common goal of devil and angel
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
