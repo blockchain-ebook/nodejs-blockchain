@@ -40,7 +40,7 @@ Node.js has many advantages, such as:
  
 The official explanation:
  
-Node.js® is a JavaScript runtime built on Chrome 's V8 JavaScript engine. Node. Js USES an event - driven, non - blocking I/O model that top service it lightweight and efficient.
+Node.js® is a JavaScript runtime built on Chrome 's V8 JavaScript engine. Node.js USES an event - driven, non - blocking I/O model that top service it lightweight and efficient.
 
 Node.js® is a platform for you to develop applications in the JavaScript language, and a perfect choice for data-intensive real-time programs running on distributed units.
  
