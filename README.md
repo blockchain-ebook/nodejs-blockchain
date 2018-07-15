@@ -19,7 +19,9 @@ Part 2 - Getting started with Node.js
   - Chapter 7: [Node.js makes backend development as easy as frontend development](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter7)
   - Chapter 8: Best practices in Node.js
 
-
+Part 3 - Source code reading
+  - Chapter 9: Yishu a future publishing platform
+  - Chapter 10: [Staring with app.js](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter10)
 
 
 
