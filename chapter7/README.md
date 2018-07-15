@@ -189,9 +189,11 @@ function fun1 () {}
 
 // export module
 module.exports = moduleName;
+```
 
 In other files, we can use this:
 
+```
 var moduleName = require('/path/to/moduleName ");
 ```
 
