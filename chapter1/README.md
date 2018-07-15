@@ -1,4 +1,4 @@
-# Chapter 1 - Introduction
+# Chapter 1 - Introduction to Crypto
 
 Note: The chinese book is at: http://bitcoin-on-nodejs.ebookchain.org
 
@@ -8,26 +8,14 @@ Translation Cooperation: http://chainmap.org (BlockChain Developer Community) + 
 
 Translator/Validator: [Anbei Zhao](https://www.linkedin.com/in/anbei-zhao-b18b48167/), [Christopher Chen](https://www.linkedin.com/in/cchen408/)
 
-Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)
+Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)`
 
+[//]: # ( Chapters can be organized into parts and put in the table of contents )
+## Understanding Crypto
 
-## About
-
-This book can be used as an introductory book of the application of Node. Js to develop encryption, as well as the official document for Yishu(and Lisk,with Crypti core platform).
-
-The source code that this book shares is Ebookcoin (Yishu coin), which is a powerful motivation of Yishu. Just like Lisk (raising more than 6.5 million), Yishu is an independent branch of Crypti (no longer under maintenance) and has sidechain function similar to Ethereum, which can carry a variety of decentralized applications. Therefore, no matter if you are studying Crypti, Lisk, Ebookcoin, or node. js, this book is worthy of reference.
-
-The goal of Yishu is to create decentralized software for everyone and promote the sharing of human knowledge.Yishu is driven by Crypto, and unlike other competing currency products, we hope to be the first "zero-threshold" Crypto product based on practical software. Please refer to hyperlink for details.
-
-Writing this book is also the best practice for Yishu. Yishu is simple and fast in writing and publishing. The article is currently free on github and http://bitcoin-on-nodejs.ebookchain.org.
-
-## Part 1: Understand Crypto
+This chapter is a introduction to cryptocurrency, as well as a quick guide for anyone without knowledge towards bitcoin or cryptocurrencies.
 
 ### Crypto is currency
-
-This part is a introduction of Crypto, as well as a quick guide for anyone without knowledge towards bitcoin or Crypto.
-
-### Preface
 
 "Crypto is currency" sounds quite silly. But if you think of its implication,  "Crypto may not be currency," you may find it interesting. In fact, many of my friends, including myself, held the latter opinion at the very beginning, and it took me some time to reach this conclusion.
 
@@ -69,7 +57,7 @@ Crypto is a kind of cryptographic electronic currency based on point-to-point ne
 
 ### Crypto is Currency
  
-Crypto-currency is currency, which is a bizarre conclusion that is close to "nonsense," and it's much easier to understand when we understand the history and concept definitions above. But if you're not a technologist and have trouble to understand it, please compare it with legal currency and find some common ground.
+Cryptocurrency is currency, which is a bizarre conclusion that is close to "nonsense," and it's much easier to understand when we understand the history and concept definitions above. But if you're not a technologist and have trouble to understand it, please compare it with legal currency and find some common ground.
 
 **(1) Quantitative:** the legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not want to discuss the excessive quantities insurance here). Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
 
@@ -85,7 +73,7 @@ However, this is not true for digital currency of some websites: they have no su
 
 ### Is Crypto Reliable? 
 
-From discussion above, we understand how Crypto works, but we may still cast doubt on the usage of Crypto. Is it reliable? This is the first question that many people ask. The answer is yes, of course, but there are many techniques and theories involved to explain why. Fortunately, these technologies and theories are mature technologies. If you think they're reliable, the following explanation is easy to understand. Otherwise, it's hard to convince yourself that crypto-currencies are more reliable than the digital ones of some websites.
+From discussion above, we understand how Crypto works, but we may still cast doubt on the usage of Crypto. Is it reliable? This is the first question that many people ask. The answer is yes, of course, but there are many techniques and theories involved to explain why. Fortunately, these technologies and theories are mature technologies. If you think they're reliable, the following explanation is easy to understand. Otherwise, it's hard to convince yourself that cryptocurrencies are more reliable than the digital ones of some websites.
 
 #### (1) Decentralization
 It is easier to start with "centralization". Currently, all the major websites we visit are centralized, since we must have one or more servers to sort out the content we browse. If the server breaks down, no one will have access to either websites. In other words, centralization means that everything is controlled by an organization or company.
@@ -135,5 +123,4 @@ Imagine, what a highly autonomous network would bring us(future trend)? What can
 
 
 
-.
 
