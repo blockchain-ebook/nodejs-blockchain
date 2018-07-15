@@ -8,8 +8,8 @@ About
   - [About the book](./about/about-the-book.md)
   
 Part 1 - Understanding Blockchain
-  - Chapter 1: [Cryptocurrency is a currency]((https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter1))
-  - Chapter 2: [Profit - the common goal of devils and angels]((https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter2)
+  - Chapter 1: [Cryptocurrency is a currency](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter1)
+  - Chapter 2: [Profit - the common goal of devils and angels](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter2)
   - Chapter 3: Consensus mechanism 
   - Chapter 4: Blockchain architecture and knowledge map
   
