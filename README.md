@@ -33,7 +33,6 @@ Part 2 - Getting started with Node.js
 
 ## [Chapter 3 - Making the Backend as Simple as the Frontend](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter3)
 
-[//]: # (Thought `Node.js -` is a bit redundant )
 ## [Chapter 4 - Entry Program app.js](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter4)
 
 ## [Chapter 5 - Making your Frontend Fly with Node.js](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter5)
