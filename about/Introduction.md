@@ -1,4 +1,4 @@
-# Preface
+# Introduction
 
 This book can be used as an introductory book of the application of Node. Js to develop encryption, as well as the official document for Yishu(and Lisk,with Crypti core platform).
 

@@ -7,7 +7,7 @@ n[//]: # ( Alternate Title: Building a Blockchain with Node.js )
 
 About
   - [Introduction](./about/introduction.md)
-  - [Foreword](./about/foreward.md)
+  - [Foreword](./about/foreword.md)
   - [About the book](./about/about-the-book.md)
   - Open Message
   
