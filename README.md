@@ -20,7 +20,7 @@ Part 2 - Getting started with Node.js
 
 Part 3 - Source code reading
   - Chapter 9: Yishu a future publishing platform
-  - Chapter 10: [Staring with app.js](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter10)
+  - Chapter 10: [App.js explained](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter10)
 
 
 
