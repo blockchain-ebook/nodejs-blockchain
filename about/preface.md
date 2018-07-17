@@ -1,4 +1,4 @@
-# Introduction
+# Preface
 
 This book can be used as an introductory book of the application of Node.js to develop blockchain, as well as the reference document for Yishu(and Lisk,with Crypti core platform).
 

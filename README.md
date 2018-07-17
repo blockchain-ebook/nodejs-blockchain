@@ -4,7 +4,7 @@
 ## Table of Contents
 
 About
-  - [Introduction](./about/intro.md)
+  - [Preface](./about/preface.md)
   
 Part 1 - Understanding Blockchain
   - Chapter 1: [Cryptocurrency is a currency](https://github.com/blockchain-ebook/nodejs-blockchain/tree/master/chapter1)
