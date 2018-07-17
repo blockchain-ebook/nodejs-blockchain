@@ -11,65 +11,66 @@ Translator/Validator: [Anbei Zhao](https://www.linkedin.com/in/anbei-zhao-b18b48
 Publisher: [George Zhao](https://www.linkedin.com/in/george-zhao-9568865/)`
 
 [//]: # ( Chapters can be organized into parts and put in the table of contents )
-## Understanding Crypto
+## Understanding Cryptocurrency
 
-This chapter is a introduction to cryptocurrency, as well as a quick guide for anyone without knowledge towards bitcoin or cryptocurrencies.
+This chapter is a introduction to cryptocurrency as well as a quick guide for anyone without knowledge regarding bitcoin or other cryptocurrencies. We will use the word crypto interchangeable with term cryptocurrency in the rest of the book. 
 
-### Crypto is currency
+### Crypto is a currency
 
-"Crypto is currency" sounds like a bold statement. But if you think of a more widely-held belief,  "Crypto may not be currency," you may find it interesting. In fact, many of my friends, including myself, held the latter opinion to begin with, and took time to reach the former conclusion.
+"Crypto is a currency" sounds like a bold statement. But if you think of a more widely held belief,  "Crypto may not be currency," you may find it interesting. In fact, many of my friends, including myself, held the latter opinion to begin with, and took time to reach the former conclusion.
 
-The law of inertia exists not only in the material world, but also in the cognitive world. The greater our experience is in existing knowledge, the greater the resistance to understanding new things. Especially brand-new stuff without a buzzwordy, eye-catching name and novel technology. It can be quite confusing to imagine that the technology is a disruptive innovation that will change the world.
+The law of inertia exists not only in the material world, but also in the cognitive world. The greater our experience is in existing knowledge, the greater the resistance to understanding new things. Especially brand new stuff without a buzzy, eye catching name and novel technology. (COMMENT: blockchain is definitely buzzy, eye catching, novel technology, so I don't know if we should keep that sentence.) It can be hard to imagine that the technology is a disruptive innovation that will change the world.
 
-I am trying to write a simple, entry-level article for those who have not been exposed to cryptocurrencies to eradicate human misconceptions and suggest the potential of cryptocurrencies. If you get a little excited and want to keep exploring, this article is a success.
+This is a simple, entry level article for those who have not been exposed to crypto in order to eradicate human misconceptions and explain the potential of crypto. This article is a success if you feel even a little excited and want to continue to explore and learn more.
 
-This article covers some basic concepts including: What is Crypto? How is it different from digital coins that people use every day? What are the advantages? Why are they so popular? Basically, it is about the basics from the perspective of a programmer.
+This article covers some basic concepts including: What is crypto? How is it different from digital coins that people use every day? What are its advantages? Why they are so popular? Basically, it is about the basics from the perspective of a programmer.
 
-### The simplest history of Crypto
+### A simple history of Cryptocurrencies
 
-Crypto is a kind of digital currency. Before bitcoin appeared, "digital currency", "virtual currency", "electronic money" had already emerged, especially "virtual currency", which refers to  digitization or virtualization of “real”, “legal” currency, such as the US dollar and RMB, through online banking, alipay, etc, enabling people to pay without money.
+Cryptocurrencies are a kind of digital currency. Before bitcoin appeared, "digital currency", "virtual currency", "electronic money" had already emerged, especially "virtual currency", which refers to  digitization or virtualization of “real”, “legal” currency, such as the US dollar and RMB, through online banking, alipay, etc, enabling people to pay without money.
 
 Later, on the game platform, the concept of game currency was first put forward. Players used game currency to buy equipments. Then, websites launched various currencies to attract users. The most intuitive interpretation of those game currency, is actually "token".
 
-In recent years, bitcoin, a real digital currency that can be called money, came out. However, people are reluctant to distinguish it from other forms of digital coins.  The law of inertia is at play here: people around the world have deep experiences in using digital currency, why is this different?
+In recent years, bitcoin, a real digital currency that can be called money, came out. However, people are reluctant to distinguish it from other forms of digital coins.  The law of inertia is at play here: people around the world have deep experiences using digital currency, so how is this any different?
 
-On the other hand, the resistance of acceptance is huge: to understand Crypto, people need to know about P2P network, encryption, decryption, and maybe database technology, all technologies not commonly understood by people.
+The resistance of acceptance is huge: to understand cryptocurrency, one needs to have an understanding of P2P networks, cryptography, and databases, none of which are common knowledge.
 
-Even if all of these technologies are understood, it is not easy to replicate all the functions and features of a real currency.  In people's minds, they see "digital currency" as a “token” rather than a currency, so the statement "Crypto is currency" can be confusing indeed.
+Even if all of these technologies are understood, it is still not easy to replicate all the functions and features of a real currency.  In people's minds, they see "digital currency" as a “token” rather than a currency, so the statement "crypto is a currency" can be confusing indeed.
 
-### What is Crypto?
+### What is cryptocurrency?
 
-"Crypto" can be interpreted as an encrypted electronic money (or digital currency), a typical example is the bitcoin. So let's use bitcoin to define Crypto:
+"Cryptocurrency" can be interpreted as an encrypted electronic money (or digital currency). A typical example is bitcoin. So let's use bitcoin to define crypto:
 
-Crypto is a kind of cryptographic electronic currency based on point-to-point network (P2P network), without issuing institutions and with a fixed total amount.
+Crypto is a cryptographic digital currency based on a peer to peer network (P2P network), without a governing central institution and will usually have a limited fixed supply.
 
 ### Notes:
 
-**(1) P2P network:** This is not a new concept. The first BitTorrent protocol we used was based on P2P network, which is supported by many download tools. Its advantage is "decentralization", that is, there is no central server, the files downloaded are all on the user's own computer, and the download speed is faster.
+**(1) P2P network:** P2P networks have been around for a while. The first BitTorrent protocol we used was based on P2P network, which is supported by many download tools. Its advantage is "decentralization" - there is no central server, the files downloaded are all on independent computers, and the download speed is faster.
 
-**(2) No issuing institutions:** It is not controlled by a certain company, bank or state. This requires very complex mechanisms and rules in programming.
+**(2) No central issuing institutions:** It is not controlled by a certain company, bank or state. This requires very complex mechanisms and rules in programming.
 
-**(3) Fixed total amount:** This is a strategy to ensure the value of Crypto.  "Scarcity equals to preciousness" - anything without limit will lose its attraction. This is different from online community credits.
+**(3) Fixed supply:** This is a strategy to ensure the value of Crypto. Rare items have more value - anything that is unlimited will lose its appeal. This is different from online community credits.
 
-**(4) Encryption:** Encryption mentioned here is not access control such as user name or password, but trading and transmission encryption. Cryptology theory is complex, but it's not complicated to use.
+**(4) Encryption:** Encryption mentioned here is not access control such as user name or password, but transaction and transmission encryption. Cryptography theory might be complex, but it's easy to use.
 
-**(5) Electronic currency:** Encrypted currency is money. Like legal currency, it can be freely traded. So what about community credits? Are they currency? The answer is no, which will be explained in detail below.
+**(5) Electronic currency:** Digital currency is money. Like legal currency, it can be traded freely. What about community credits? Are they currency? The answer is no, which will be explained in detail below.
 
-### Crypto is Currency
+### Crypto is a currency
 
-Cryptocurrency is currency, which is a bizarre conclusion that is close to "nonsense," is much easier to understand when we understand the history and concepts defined above. But for those that are not technologists and have trouble understanding it, I've compared it with traditional legal currency and found some common ground.
+The conclusion that crypto is a currency is much easier to grasp when we understand the history and concepts defined above. It can still be difficult for those who are not technologists. So let us compare it with fiat currency to find some shared characteristics.
 
-**(1) Quantitative:** Legal currency is usually tied to the gold behind it or the so-called GDP, which is relatively fixed (We do not want to discuss the excessive quantities insurance here). Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
+**(1) Quantitative:** Legal currency is usually tied to the gold or to the GDP, which is relatively fixed (We do not want to discuss the excessive quantities insurance here). Crypto can be counted as an absolute fixed amount, or a small amount of additional issuance (which can make up for some lost currency, etc.) to prevent inflation.
 
-However, there is no fixed amount of digital coins provided by some websites.
+However, some websites provide digital coins that have no fixed amount.
 
-**(2) Encryption:** Legal currency has the physical security of the highest level of technology and can be verified through the counterfeit detector. Encryption technology of Crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encrypted. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit Crypto. At the same time, the verification mechanism of Crypto is much simpler, quicker and more accurate than that of legal currency.
+**(2) Encryption:** Legal currency has the physical security of the highest level of technology and can be verified through the counterfeit detector. The encryption found in crypto is the equivalent of anti-counterfeiting technology, and every transaction will be strictly encrypted. Cracking this encryption is theoretically possible, but not feasible financially, so it is even more difficult to counterfeit crypto. Verification of crypto is much simpler, quicker and more accurate than that of legal currency.
 
 However, the digital currency of some individual websites is only a series of numbers, and the administrator can modify and freeze information, and their encryption is similar to permission control when the user logs in.
 
 **(3) Transaction:** Legal currency, also known as currency or general equivalent, can be exchanged with any merchant and can be used to purchase anything, which is the most basic attribute of currency. The same is true for encrypted money, which you can pay to any party, and the encrypted money will arrive safely without fear of being hijacked, hacked, or reduced.
 
-However, this is not true for digital currency of some websites: they have no such function at all, and can only be traded within the website. Some stores can trade digital currency between many websites, but those websites belong to the same owner. Of course, a website can trade with other websites if it has an agreement with a third party to set the value of its digital currency, but the essence of this transaction is still legal currency. No one is likely to sign this agreement, at least not me, because there is no oversight, no control, no guarantee of absolute trust.
+
+However, this is not true for the digital currency of some websites: they have no such function at all, and can only be traded within the website. Some stores can trade digital currency between many websites, but those websites belong to the same owner. Of course, a website can trade with other websites if it has an agreement with a third party to set the value of its digital currency, but the essence of this transaction is still legal currency. No one is likely to sign this agreement, at least not me, because there is no oversight, no control, no guarantee of absolute trust.
 
 ### Is Crypto Reliable?
 
